@@ -1,0 +1,15 @@
+.shirt-info img {
+    width: 250px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.shirt-info {
+    padding: 10px;
+    border: 1px solid lightblue;
+    border-radius: 15px;
+}
+
+.shirt-info h4 {
+    margin: 0;
+}
